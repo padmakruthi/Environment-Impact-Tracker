@@ -31,7 +31,7 @@ else:
 
 # --------- CSV FILE LOADING ----------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-csv_path = os.path.join(BASE_DIR, "C:/Users/SRINIVAS/Desktop/kruthi/total csv file.csv")
+csv_path = os.path.join(BASE_DIR, "total csv file.csv")
 
 df = pd.read_csv(csv_path)
 
@@ -134,3 +134,4 @@ print("\nThank you for your valuable feedback!")
 # --------- END ----------
 print("\nSAVE OUR ENVIRONMENT 🌱")
 print("Project created by:", n)
+
