@@ -1,4 +1,3 @@
-# Environment-Impact-Tracker
 # Environment Impact Tracker 🌍
 
 A beginner-friendly Python project that analyzes climate change and environmental impact
