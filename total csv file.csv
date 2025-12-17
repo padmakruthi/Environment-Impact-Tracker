@@ -1,0 +1,63 @@
+Country,Indicator,2015,2016,2017,2018,2019,2020,2021,2022
+India,Temperature change with respect to a baseline climatology2015-2022,0.711,1.088,0.966,0.874,0.802,0.52,0.733,0.79
+Sri Lanka,Temperature change with respect to a baseline climatology2015-2022,1.006,1.369,1.095,0.823,1.275,1.315,1.034,1.004
+Canada,Temperature change with respect to a baseline climatology2015-2022,1.231,2.373,1.48,0.477,1.311,1.128,2.515,1.268
+Pakistan,Temperature change with respect to a baseline climatology2015-2022,0.529,1.233,1.252,1.359,0.566,0.394,1.121,1.389
+Japan,Temperature change with respect to a baseline climatology2015-2022,0.833,1.323,0.796,0.926,1.272,1.437,1.27,1.335
+Bangladesh,Temperature change with respect to a baseline climatology2015-2022,0.722,1.337,1.124,0.881,1.136,0.898,1.3,1.216
+,,,,,,,,,
+,,,,,,,,,
+India,"Climate related disasters frequency, Number of Disasters: Drought",1,0,0,1,0,0,0,0
+India,"Climate related disasters frequency, Number of Disasters: Extreme temperature",1,1,1,1,2,0,0,1
+India,"Climate related disasters frequency, Number of Disasters: Flood",10,8,9,9,5,5,9,3
+India,"Climate related disasters frequency, Number of Disasters: Landslide",1,2,3,0,0,2,2,1
+India,"Climate related disasters frequency, Number of Disasters: Storm",6,3,5,11,5,4,5,2
+Sri Lanka,"Climate related disasters frequency, Number of Disasters: Flood",2,1,2,3,5,2,4,3
+Sri Lanka,"Climate related disasters frequency, Number of Disasters: Landslide",0,0,0,0,0,0,0,0
+Sri Lanka,"Climate related disasters frequency, Number of Disasters: Storm",0,0,1,0,0,1,1,2
+Sri Lanka,"Climate related disasters frequency, Number of Disasters: Temperature",0,0,0,0,0,0,0,0
+Canada,"Climate related disasters frequency, Number of Disasters: Drought",0,0,0,0,0,0,0,0
+Canada,"Climate related disasters frequency, Number of Disasters: Extreme temperature",0,0,0,1,0,0,1,0
+Canada,"Climate related disasters frequency, Number of Disasters: Flood",0,1,2,1,1,1,1,2
+Canada,"Climate related disasters frequency, Number of Disasters: Storm",0,0,0,1,1,1,1,4
+Canada,"Climate related disasters frequency, Number of Disasters: Landslide",0,0,0,0,0,0,0,0
+Pakistan,"Climate related disasters frequency, Number of Disasters: Drought",0,0,0,0,1,0,0,0
+Pakistan,"Climate related disasters frequency, Number of Disasters: Extreme temperature",1,0,0,1,0,0,0,1
+Pakistan,"Climate related disasters frequency, Number of Disasters: Flood",6,7,2,1,8,4,4,1
+Pakistan,"Climate related disasters frequency, Number of Disasters: Landslide",0,0,1,0,0,1,0,0
+Pakistan,"Climate related disasters frequency, Number of Disasters: Storm",0,1,2,0,1,1,2,1
+Japan,"Climate related disasters frequency, Number of Disasters: Extreme temperature",3,2,0,1,2,0,0,1
+Japan,"Climate related disasters frequency, Number of Disasters: Flood",1,1,1,1,3,1,2,1
+Japan,"Climate related disasters frequency, Number of Disasters: Landslide",0,0,0,0,0,0,1,0
+Japan,"Climate related disasters frequency, Number of Disasters: Storm",6,4,3,3,4,3,1,4
+Japan,"Climate related disasters frequency, Number of Disasters: Drought",0,0,0,0,0,0,0,0
+Bangladesh,"Climate related disasters frequency, Number of Disasters: Drought",0,0,0,0,0,0,0,0
+Bangladesh,"Climate related disasters frequency, Number of Disasters: Extreme temperature",0,0,0,1,1,0,0,0
+Bangladesh,"Climate related disasters frequency, Number of Disasters: Flood",2,1,2,2,1,1,1,1
+Bangladesh,"Climate related disasters frequency, Number of Disasters: Landslide",1,0,1,0,1,0,0,0
+Bangladesh,"Climate related disasters frequency, Number of Disasters: Storm",4,2,2,1,3,1,1,1
+,,,,,,,,,
+India,Climate-driven Hazard & Exposure,7.5,7.5,7.5,7.5,7.5,7.5,7.5,7.5
+India,Climate-driven INFORM Risk Indicator,5.6,5.5,5.5,5.4,5.4,5.4,5.3,5.3
+India,Lack of coping capacity,4.6,4.4,4.4,4.3,4.3,4.2,4.2,4.2
+India,Vulnerability,5,5,5,4.9,4.9,4.9,4.8,4.8
+Sri Lanka,Climate-driven Hazard & Exposure,4.6,4.6,4.6,4.6,4.6,4.6,4.6,4.6
+Sri Lanka,Climate-driven INFORM Risk Indicator,4.4,4.2,4.2,4.1,4,3.9,3.8,3.7
+Sri Lanka,Lack of coping capacity,4.5,4.2,4.2,4.2,4.1,4.1,4,4
+Sri Lanka,Vulnerability,4.1,4.5,3.8,3.7,3.7,3.4,3.3,3.1
+Canada,Climate-driven Hazard & Exposure,3.7,3.7,3.7,3.7,3.7,3.7,3.7,3.5
+Canada,Climate-driven INFORM Risk Indicator,2.7,2.7,2.6,2.7,2.7,2.7,2.7,2.7
+Canada,Lack of coping capacity,2.4,2.4,2.3,2.3,2.3,2.3,2.3,2.4
+Canada,Vulnerability,2.4,2.3,2.2,2,2.2,2.3,2.3,2.3
+Pakistan,Climate-driven Hazard & Exposure,6.4,6.4,6.4,6.4,6.4,6.4,6.4,6.4
+Pakistan,Climate-driven INFORM Risk Indicator,6,6,5.9,5.9,5.8,5.8,5.8,5.9
+Pakistan,Lack of coping capacity,5.7,5.7,5.7,5.6,5.5,5.5,5.4,5.4
+Pakistan,Vulnerability,6,6,6,5.7,5.7,5.5,5.6,5.6
+Japan,Climate-driven Hazard & Exposure,6.7,6.7,6.7,6.7,6.7,6.7,6.7,6.7
+Japan,Climate-driven INFORM Risk Indicator,2.3,2.4,2.4,2.5,2.5,2.5,2.4,2.4
+Japan,Lack of coping capacity,1.6,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+Japan,Vulnerability,1.1,1.2,1.3,1.4,1.5,1.5,1.5,1.4
+Bangladesh,Climate-driven Hazard & Exposure,7.9,7.9,7.9,7.9,7.9,7.9,7.9,7.9
+Bangladesh,Climate-driven INFORM Risk Indicator,6.1,6.1,6,6.2,6,6,6,5.9
+Bangladesh,Lack of coping capacity,5.6,5.3,5.3,5.1,5,5,4.9,4.9
+Bangladesh,Vulnerability,5.4,5.4,5.3,5.3,5.9,5.4,5.6,5.7
